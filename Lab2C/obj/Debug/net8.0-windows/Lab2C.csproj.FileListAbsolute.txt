@@ -1,0 +1,16 @@
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.Lab2C.resources
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.csproj.GenerateResource.cache
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.AssemblyInfoInputs.cache
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.AssemblyInfo.cs
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.csproj.CoreCompileInputs.cache
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\bin\Debug\net8.0-windows\Lab2C.exe
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\bin\Debug\net8.0-windows\Lab2C.deps.json
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\bin\Debug\net8.0-windows\Lab2C.runtimeconfig.json
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\bin\Debug\net8.0-windows\Lab2C.dll
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\bin\Debug\net8.0-windows\Lab2C.pdb
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.dll
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\refint\Lab2C.dll
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.pdb
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\Lab2C.genruntimeconfig.cache
+C:\Users\stcp\Desktop\ITPLabs-master\Lab2C\obj\Debug\net8.0-windows\ref\Lab2C.dll
